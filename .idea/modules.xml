@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidAppComponents-ServicesLocalIPCandContentProviders/AndroidAppComponents-ServicesLocalIPCandContentProviders.iml" filepath="$PROJECT_DIR$/AndroidAppComponents-ServicesLocalIPCandContentProviders/AndroidAppComponents-ServicesLocalIPCandContentProviders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PforMD.iml" filepath="$PROJECT_DIR$/PforMD.iml" />
+    </modules>
+  </component>
+</project>
